@@ -1,0 +1,77 @@
+body{
+	background: #F4EAC3;
+	font-size: 16px;
+	font-family: "Open Sans";
+}
+footer a 
+{
+	display: block; 
+	text-align: center;
+
+}
+footer a img
+{
+	width: 23px;
+}
+footer h4
+{
+	text-align: center;
+	font-weight: inherit;
+}
+header img
+{
+	border-radius: 50%;
+	display: block;
+	margin: 0 auto;
+	width: 270px;
+}
+ul li
+{
+	list-style: none;
+	font-weight: inherit;
+}
+section ul li
+{
+	font-style: italic;
+}
+#ip, #educacion, #habilidades
+{
+	background: #ffc576;
+	border-radius: 1em;
+	padding-bottom: 1px;
+}
+.franja_titulo
+{
+	background: #ee2a31;
+	
+	border-radius: 1.5em;
+	color: #FFFFFF;
+	font-size: 1.1em;
+	text-align: center;
+}
+.franja_subtitulo
+{
+	background: #3d7dff;
+	border-radius: 1.5em;
+	color: #FFFFFF;
+	font-size: 1.1em;
+	padding-left: 1em;
+	text-align: left;
+}
+
+/*@media screen and (min-width: 800px) {
+	body
+	{
+		background: black;
+	}
+}*/
+
+
+
+
+
+
+
+
+
+
