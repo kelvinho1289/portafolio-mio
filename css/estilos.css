@@ -3,6 +3,7 @@ body{
 	font-size: 16px;
 	font-family: "Open Sans";
 }
+
 footer a 
 {
 	display: block; 
@@ -25,11 +26,36 @@ header img
 	margin: 0 auto;
 	width: 270px;
 }
+nav
+{
+	background: #3d7dff;
+	border-radius: 1.5em;
+}
+nav ul
+{
+	list-style: none;
+	text-align: right;
+	
+}
+nav ul li
+{
+	display: inline-block;
+	margin: 0 1em 0 0;	
+}
+nav ul li a
+{
+	color: white;
+	text-decoration: none;
+	padding: 0.1em 0;
+}
+
+
 ul li
 {
 	list-style: none;
 	font-weight: inherit;
 }
+
 section ul li
 {
 	font-style: italic;
